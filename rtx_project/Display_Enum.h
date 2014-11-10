@@ -1,0 +1,12 @@
+#ifndef DISPLAY_ENUM_H
+#define DISPLAY_ENUM_H
+typedef enum {
+	DISPLAY_DEFAULT = 0,
+	TEMPERATURE_DISPLAY = 1,
+	TEMPERATURE_FLASH = 2,
+	ACCELEROMETER_EDGE = 3,
+	ACCELEROMETER_DIRECTION = 4,
+	LEDS_ON = 5,
+	LEDS_OFF = 6,
+} display_state_type;
+#endif

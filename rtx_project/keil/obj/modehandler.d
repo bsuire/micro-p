@@ -1,0 +1,47 @@
+.\obj\modehandler.o: ..\modeHandler.c
+.\obj\modehandler.o: ../CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+.\obj\modehandler.o: ../inc/core_cm4.h
+.\obj\modehandler.o: C:\Program Files\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\modehandler.o: ../inc/core_cmInstr.h
+.\obj\modehandler.o: ../inc/core_cmFunc.h
+.\obj\modehandler.o: ../inc/core_cm4_simd.h
+.\obj\modehandler.o: ../CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+.\obj\modehandler.o: ../stm32f4xx_conf.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_adc.h
+.\obj\modehandler.o: ../CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_can.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_crc.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_cryp.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_dac.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_dbgmcu.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_dcmi.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_dma.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_exti.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_flash.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_fsmc.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_hash.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_gpio.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_i2c.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_iwdg.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_pwr.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_rcc.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_rng.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_rtc.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_sdio.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_spi.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_syscfg.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_tim.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_usart.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_wwdg.h
+.\obj\modehandler.o: ../STM32F4xx_StdPeriph_Driver/inc/misc.h
+.\obj\modehandler.o: ..\modeHandler.h
+.\obj\modehandler.o: ../inc/cmsis_os.h
+.\obj\modehandler.o: C:\Program Files\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\obj\modehandler.o: C:\Program Files\Keil\ARM\ARMCC\bin\..\include\math.h
+.\obj\modehandler.o: ..\accelerometer.h
+.\obj\modehandler.o: ..\temperature_sensor.h
+.\obj\modehandler.o: ..\led.h
+.\obj\modehandler.o: ..\displayTemperature.h
+.\obj\modehandler.o: ..\displayEdge.h
+.\obj\modehandler.o: ..\moveDetect.h
+.\obj\modehandler.o: ..\display_enum.h
